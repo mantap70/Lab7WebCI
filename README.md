@@ -56,7 +56,7 @@ php spark serve
 
 Server aktif pada alamat: `http://localhost:8080`
 
-![img](img/spark.png)
+![img](img/spark_serve.png)
 
 ### 3️⃣ Konfigurasi Environment
 Mengubah nama file env menjadi .env
