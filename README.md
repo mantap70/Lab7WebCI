@@ -316,19 +316,19 @@ View digunakan untuk menampilkan:
 
 ### 🔹 Daftar Artikel
 
-![img](img/artikel.png)
+![img](img/daftar_artikel.png)
 
 ### 🔹 Detail Artikel
 
-![img](img/detail.png)
+![img](img/detail_artikel.png)
 
 ### 🔹 Halaman Admin
 
-![img](img/admin.png)
+![img](img/halaman_admin.png)
 
 ### 🔹 Tambah Artikel
 
-![img](img/tambah.png)
+![img](img/tambah_artikel.png)
 
 ---
 
@@ -531,15 +531,15 @@ public function logout()
 
 ### 🔹 Halaman Login
 
-![img](img/login.png)
+![img](img/halaman_login.png)
 
 ### 🔹 Login Berhasil
 
-![img](img/login-success.png)
+![img](img/login_success.png)
 
 ### 🔹 Halaman Admin (Setelah Login)
 
-![img](img/admin-login.png)
+![img](img/admin.png)
 
 ---
 
